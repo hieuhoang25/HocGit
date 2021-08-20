@@ -40,4 +40,4 @@ Step 11: git branch -d develop
 <!-- Code sẽ bị mất chỉ xóa nhánh trong trường hợp xử lí xong  -->
 
 Step 12: git pull origin ten_nhanh
--> pull code (kéo code ) mới nhất của nhánh đó về local
+-> pull code (kéo code ) mới nhất của nhánh đó về local 
