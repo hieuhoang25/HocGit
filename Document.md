@@ -41,3 +41,4 @@ Step 11: git branch -d develop
 
 Step 12: git pull origin ten_nhanh
 -> pull code (kéo code ) mới nhất của nhánh đó về local 
+Step 13: git clone link .git sources cần tải xuống;
